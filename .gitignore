@@ -1,0 +1,7 @@
+﻿chroma_app_db/
+chroma_db/
+.agents/
+__pycache__/
+*.tmp
+.env
+.ipynb_checkpoints/
